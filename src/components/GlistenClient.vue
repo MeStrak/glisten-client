@@ -47,7 +47,7 @@ export default class GlistenClient extends Vue {
   private data!: any;
   private glistenWhisp = {
     type: 'USER_FEEDBACK',
-    applicationID: 'GLISTEN_TESTINGNPM',
+    applicationID: 'GLISTEN',
     openedById: '',
     data: {
       anonymous: false,
